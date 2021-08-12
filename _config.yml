@@ -1,12 +1,13 @@
+ï»¿# encoding: utf-8
+
 # Setup
-encoding: UTF-8
-title: °³°³ 
-description: °³¹ß °æÇèÀÌ ¾ø´Â ÃÊº¸ °³¹ßÀÚÀÇ °³¹ß ÀÏ±â
+title: ì´ˆë³´ ê°œë°œìì˜       ê°œë°œ ì¼ê¸° 
+description: ê°œë°œ ê²½í—˜ì´ ì—†ëŠ” ê°œë°œìì˜     ë³¸ê²© ê°œë°œ ë„ì „ê¸°ì…ë‹ˆë‹¤!
 url: https://SeoHoiHyeong.github.io
-avatar: /avatar.jpeg
+avatar: /Profile.jpg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /Background.jpg
 
 # Gems
 plugins:

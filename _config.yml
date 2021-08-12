@@ -1,8 +1,9 @@
 # Setup
-title: ENFP 
-description: Test description
+encoding: UTF-8
+title: 개개 
+description: 개발 경험이 없는 초보 개발자의 개발 일기
 url: https://SeoHoiHyeong.github.io
-avatar: /avatar.jpeg
+avatar: /Profile.jpeg
 paginate: 5
 permalink: pretty
 cover_image: /Profile.jpeg

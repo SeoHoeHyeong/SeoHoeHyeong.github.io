@@ -3,10 +3,10 @@ encoding: UTF-8
 title: 개개 
 description: 개발 경험이 없는 초보 개발자의 개발 일기
 url: https://SeoHoiHyeong.github.io
-avatar: /Profile.jpeg
+avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
-cover_image: /Profile.jpeg
+cover_image: /bg.jpeg
 
 # Gems
 plugins:
